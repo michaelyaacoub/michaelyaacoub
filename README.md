@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently taking CS50 and studying CS
 
-- 💾 I'm pretty much always learning about something. Right now, it's Python and writing articles.
+- 💾 I'm pretty much always learning about something. Right now, it's 🐍Python, ⚛️React and ✍writing articles.
 
 - ✉ Chat with me on LinkedIn, /michaelyaacoub7
 
