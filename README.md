@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - ✉ Chat with me on LinkedIn, /michaelyaacoub7
 
 - 😄 Pronouns: He/Him
-- 
+
 - 🐕🐕 I love animals and I hope one day I get to have a doggie.
