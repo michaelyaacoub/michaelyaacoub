@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ✨ I’m a software developer, I have a passion for building things for the web.
+- ✨ I’m a software developer, I have a passion for building things for the web and tech the all way.
 - 🌱 I’m currently taking CS50
 - 💾 I'm pretty much always learning about something. Right now, it's Python and writing articles.
 - ✉ Chat with me on LinkedIn, /michaelyaacoub7
