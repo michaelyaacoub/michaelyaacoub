@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 - 📚 I enjoy reading scripture and 🎸 playing the Guitar
 
-
 - 🐕🐕 I love animals and I hope one day I get to have a doggie.
 
 - ✉ Chat with me on LinkedIn [Michael Yaacoub](https://www.linkedin.com/in/michaelyaacoub7/) and/or Twitter [@michaelyaacoub7](@michaelyaacoub7)
