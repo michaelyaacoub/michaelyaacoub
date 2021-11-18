@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently taking CS50 and studying CS
 
+- 📚 I enjoy reading scripture
+
 - 💾 I'm pretty much always learning about something. Right now, it's 🐍Python, ⚛️React and ✍writing articles.
 
 - ✉ Chat with me on LinkedIn [Michael Yaacoub](https://www.linkedin.com/in/michaelyaacoub7/) and/or Twitter [@michaelyaacoub7](@michaelyaacoub7)
