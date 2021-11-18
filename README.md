@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently taking CS50 and studying CS
 
+- 💾 I'm pretty much always learning about something. Right now, it's 🐍  Python, ⚛️  React and ✍writing articles.
+
 - 📚 I enjoy reading scripture and 🎸 playing the Guitar
 
-- 💾 I'm pretty much always learning about something. Right now, it's 🐍  Python, ⚛️  React and ✍writing articles.
+
+- 🐕🐕 I love animals and I hope one day I get to have a doggie.
 
 - ✉ Chat with me on LinkedIn [Michael Yaacoub](https://www.linkedin.com/in/michaelyaacoub7/) and/or Twitter [@michaelyaacoub7](@michaelyaacoub7)
 
 - 😄 Pronouns: He/Him
-
-- 🐕🐕 I love animals and I hope one day I get to have a doggie.
