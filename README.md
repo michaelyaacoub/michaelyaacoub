@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 - 🐕🐕 I love animals and I hope one day I get to have a doggie.
 
-- ✉ Chat with me on LinkedIn [Michael Yaacoub](https://www.linkedin.com/in/michaelyaacoub7/) and Twitter [@michaelyaacoub7](https://twitter.com/michaelyaacoub7)
+- ✉ Chat with me on [LinkedIn](https://www.linkedin.com/in/michaelyaacoub7/) and Twitter [@michaelyaacoub7](https://twitter.com/michaelyaacoub7)
 
 - 😄 Pronouns: He/Him
+
+- Read my blog on [Medium]()
