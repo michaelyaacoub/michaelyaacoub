@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: He/Him
 
-- Read my blog on [Medium]()
+- Read my blog on [Medium](https://medium.com/@michael.yaacoub7)
