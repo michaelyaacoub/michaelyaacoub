@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 💾 I'm pretty much always learning about something new. Right now, it's Java ⚛️ React and ✍writing articles.
 
-- 📚 I enjoy reading scripture && poetry, riding my 🛵 vespa on CA-1 and 🎸 playing the Guitar
+- 📚 I enjoy reading scripture && poetry, riding my 🛵 Vespa on CA-1 and 🎸 playing the Guitar
 
 - 🐕🐕 I love animals and I hope one day I get to own a GR.
 
