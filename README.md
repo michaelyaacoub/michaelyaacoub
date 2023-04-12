@@ -28,6 +28,4 @@ Here are some ideas to get you started:
 
 - ✉ Chat with me on [LinkedIn](https://www.linkedin.com/in/michaelyaacoub7/) and Twitter [@michaelyaacoub7](https://twitter.com/michaelyaacoub7)
 
-- 😄 Pronouns: He/Him
-
 - Read my blog on [Medium](https://medium.com/@michael.yaacoub7)
