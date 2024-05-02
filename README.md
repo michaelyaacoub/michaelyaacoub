@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 - ✨ a software developer, I have a passion for building things from scratch, 
      know how things were built and why things are built the way they are.
 
